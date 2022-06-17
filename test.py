@@ -1,1 +1,1 @@
-Testing creating the new file.
+print("Testing creating the new file.")
